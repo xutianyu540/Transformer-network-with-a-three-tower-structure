@@ -1,0 +1,3 @@
+pathDataSet: /Volumes/Elements/G盘/epilepsy data/chb-mit-scalp-eeg-database-1.0.0/chb-mit-scalp-eeg-database-1.0.0
+FirstPartPathOutput: /Volumes/Elements/G盘/data/5s_spectograms
+FirstPartPathOutput1: /Volumes/Elements/G盘/data/segment
